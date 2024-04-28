@@ -12,7 +12,7 @@
 - saya
 - kamu
 
-[ChatGPT] (https://chat.openai.com/)
+[ChatGPT](https://chat.openai.com/)
 
 ![cewe cantik](https://i.pinimg.com/736x/9a/b1/ff/9ab1ffc456c183a90f1f25ca149db233.jpg)
 
